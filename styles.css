@@ -5,14 +5,14 @@ body {
     padding: 0;
 }
 
-.scrollable-container {
+/*.scrollable-container {
     height: 100%;
     overflow-y: auto;
     padding-top: 30px;
     padding-left: 23px;
     padding-bottom: 20px;
     box-sizing: border-box;
-}
+}*/
 
 .scrollable-content {
     height: 2000px;
